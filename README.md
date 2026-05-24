@@ -4,8 +4,6 @@
 
 This project explores topic modeling and reflexive thematic analysis using the Conversations Gone Awry – ChangeMyView (CGA-CMV) corpus developed by Chang and Danescu-Niculescu-Mizil (2019) from Reddit’s (2025) ChangeMyView community. The goal of the assignment was to investigate how Latent Dirichlet Allocation (LDA) can be used to identify recurring themes in online discussions while also critically reflecting on the interpretability and stability of computational topic models.
 
-The project was completed as part of INF2209: Human-Centred Topic Models at the University of Toronto.
-
 ---
 
 ## Research Objectives
